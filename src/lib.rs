@@ -1,4 +1,5 @@
 use std::env;
+use std::fmt::Display;
 use std::fs::File;
 use std::io::prelude::*;
 use std::io::BufReader;
@@ -7,6 +8,20 @@ pub mod raw_ptr;
 
 pub fn read_input() -> Vec<String> {
     read_input_map(|e| e)
+}
+
+pub fn print_part1_answer<T>(result: T)
+where
+    T: Display,
+{
+    println!("part 1: {}", result);
+}
+
+pub fn print_part2_answer<T>(result: T)
+where
+    T: Display,
+{
+    println!("part 2: {}", result);
 }
 
 pub fn read_input_map<T>(mapper: fn(String) -> T) -> Vec<T> {
