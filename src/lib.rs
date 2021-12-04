@@ -10,20 +10,6 @@ pub fn read_input() -> Vec<String> {
     read_input_map(|e| e)
 }
 
-pub fn print_part1_answer<T>(result: T)
-where
-    T: Display,
-{
-    println!("part 1: {}", result);
-}
-
-pub fn print_part2_answer<T>(result: T)
-where
-    T: Display,
-{
-    println!("part 2: {}", result);
-}
-
 pub fn read_input_map<T>(mapper: fn(String) -> T) -> Vec<T> {
     let arg = env::args().nth(1).unwrap();
     match File::open(&arg) {
@@ -70,6 +56,20 @@ pub fn crt(nums: &[u64], mods: &[u64]) -> u64 {
 
     let bi_ni_xi_sum = bi_ni_xi.iter().fold(0u64, |acc, x| acc.wrapping_add(*x));
     bi_ni_xi_sum % n
+}
+
+pub fn print_part1_answer<T>(result: T)
+where
+    T: Display,
+{
+    println!("part 1: {}", result);
+}
+
+pub fn print_part2_answer<T>(result: T)
+where
+    T: Display,
+{
+    println!("part 2: {}", result);
 }
 
 #[cfg(test)]
