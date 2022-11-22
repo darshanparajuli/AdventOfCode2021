@@ -1,0 +1,2512 @@
+Packet {
+    header: Header {
+        version: 5,
+        type_id: 0,
+    },
+    data: Operator(
+        [
+            Packet {
+                header: Header {
+                    version: 7,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                9,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            90,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            258,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                14,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                2,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 2,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                15083,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                4,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                10,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 2,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                46486,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                946644,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 4,
+                },
+                data: Literal(
+                    47731,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                86,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                167,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                76,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                41,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                75,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                902426,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 0,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            5448597,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            5448597,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 4,
+                },
+                data: Literal(
+                    12,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 4,
+                },
+                data: Literal(
+                    3150483273,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 4,
+                },
+                data: Literal(
+                    46921,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 4,
+                },
+                data: Literal(
+                    1756,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3098,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 7,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            241,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            11104915,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            2338,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            2338,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                185954532,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                105,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                146,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                64,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                124,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 4,
+                },
+                data: Literal(
+                    1619,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                183,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            440674,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            103,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                6937079,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                92140,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                209,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                592,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 1,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 2,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 2,
+                                                    },
+                                                    data: Operator(
+                                                        [
+                                                            Packet {
+                                                                header: Header {
+                                                                    version: 2,
+                                                                    type_id: 3,
+                                                                },
+                                                                data: Operator(
+                                                                    [
+                                                                        Packet {
+                                                                            header: Header {
+                                                                                version: 1,
+                                                                                type_id: 0,
+                                                                            },
+                                                                            data: Operator(
+                                                                                [
+                                                                                    Packet {
+                                                                                        header: Header {
+                                                                                            version: 4,
+                                                                                            type_id: 3,
+                                                                                        },
+                                                                                        data: Operator(
+                                                                                            [
+                                                                                                Packet {
+                                                                                                    header: Header {
+                                                                                                        version: 2,
+                                                                                                        type_id: 1,
+                                                                                                    },
+                                                                                                    data: Operator(
+                                                                                                        [
+                                                                                                            Packet {
+                                                                                                                header: Header {
+                                                                                                                    version: 4,
+                                                                                                                    type_id: 3,
+                                                                                                                },
+                                                                                                                data: Operator(
+                                                                                                                    [
+                                                                                                                        Packet {
+                                                                                                                            header: Header {
+                                                                                                                                version: 2,
+                                                                                                                                type_id: 0,
+                                                                                                                            },
+                                                                                                                            data: Operator(
+                                                                                                                                [
+                                                                                                                                    Packet {
+                                                                                                                                        header: Header {
+                                                                                                                                            version: 1,
+                                                                                                                                            type_id: 2,
+                                                                                                                                        },
+                                                                                                                                        data: Operator(
+                                                                                                                                            [
+                                                                                                                                                Packet {
+                                                                                                                                                    header: Header {
+                                                                                                                                                        version: 1,
+                                                                                                                                                        type_id: 0,
+                                                                                                                                                    },
+                                                                                                                                                    data: Operator(
+                                                                                                                                                        [
+                                                                                                                                                            Packet {
+                                                                                                                                                                header: Header {
+                                                                                                                                                                    version: 0,
+                                                                                                                                                                    type_id: 0,
+                                                                                                                                                                },
+                                                                                                                                                                data: Operator(
+                                                                                                                                                                    [
+                                                                                                                                                                        Packet {
+                                                                                                                                                                            header: Header {
+                                                                                                                                                                                version: 6,
+                                                                                                                                                                                type_id: 2,
+                                                                                                                                                                            },
+                                                                                                                                                                            data: Operator(
+                                                                                                                                                                                [
+                                                                                                                                                                                    Packet {
+                                                                                                                                                                                        header: Header {
+                                                                                                                                                                                            version: 7,
+                                                                                                                                                                                            type_id: 3,
+                                                                                                                                                                                        },
+                                                                                                                                                                                        data: Operator(
+                                                                                                                                                                                            [
+                                                                                                                                                                                                Packet {
+                                                                                                                                                                                                    header: Header {
+                                                                                                                                                                                                        version: 2,
+                                                                                                                                                                                                        type_id: 0,
+                                                                                                                                                                                                    },
+                                                                                                                                                                                                    data: Operator(
+                                                                                                                                                                                                        [
+                                                                                                                                                                                                            Packet {
+                                                                                                                                                                                                                header: Header {
+                                                                                                                                                                                                                    version: 2,
+                                                                                                                                                                                                                    type_id: 3,
+                                                                                                                                                                                                                },
+                                                                                                                                                                                                                data: Operator(
+                                                                                                                                                                                                                    [
+                                                                                                                                                                                                                        Packet {
+                                                                                                                                                                                                                            header: Header {
+                                                                                                                                                                                                                                version: 2,
+                                                                                                                                                                                                                                type_id: 1,
+                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                            data: Operator(
+                                                                                                                                                                                                                                [
+                                                                                                                                                                                                                                    Packet {
+                                                                                                                                                                                                                                        header: Header {
+                                                                                                                                                                                                                                            version: 4,
+                                                                                                                                                                                                                                            type_id: 2,
+                                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                                        data: Operator(
+                                                                                                                                                                                                                                            [
+                                                                                                                                                                                                                                                Packet {
+                                                                                                                                                                                                                                                    header: Header {
+                                                                                                                                                                                                                                                        version: 4,
+                                                                                                                                                                                                                                                        type_id: 2,
+                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                    data: Operator(
+                                                                                                                                                                                                                                                        [
+                                                                                                                                                                                                                                                            Packet {
+                                                                                                                                                                                                                                                                header: Header {
+                                                                                                                                                                                                                                                                    version: 1,
+                                                                                                                                                                                                                                                                    type_id: 4,
+                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                data: Literal(
+                                                                                                                                                                                                                                                                    761240743,
+                                                                                                                                                                                                                                                                ),
+                                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                        ],
+                                                                                                                                                                                                                                                    ),
+                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                            ],
+                                                                                                                                                                                                                                        ),
+                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                ],
+                                                                                                                                                                                                                            ),
+                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                    ],
+                                                                                                                                                                                                                ),
+                                                                                                                                                                                                            },
+                                                                                                                                                                                                        ],
+                                                                                                                                                                                                    ),
+                                                                                                                                                                                                },
+                                                                                                                                                                                            ],
+                                                                                                                                                                                        ),
+                                                                                                                                                                                    },
+                                                                                                                                                                                ],
+                                                                                                                                                                            ),
+                                                                                                                                                                        },
+                                                                                                                                                                    ],
+                                                                                                                                                                ),
+                                                                                                                                                            },
+                                                                                                                                                        ],
+                                                                                                                                                    ),
+                                                                                                                                                },
+                                                                                                                                            ],
+                                                                                                                                        ),
+                                                                                                                                    },
+                                                                                                                                ],
+                                                                                                                            ),
+                                                                                                                        },
+                                                                                                                    ],
+                                                                                                                ),
+                                                                                                            },
+                                                                                                        ],
+                                                                                                    ),
+                                                                                                },
+                                                                                            ],
+                                                                                        ),
+                                                                                    },
+                                                                                ],
+                                                                            ),
+                                                                        },
+                                                                    ],
+                                                                ),
+                                                            },
+                                                        ],
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 4,
+                },
+                data: Literal(
+                    455,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 4,
+                },
+                data: Literal(
+                    256083,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 1,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 0,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            9,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            6,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            4,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 1,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            14,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            4,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            8,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 1,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            5,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            3,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            12,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 2,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                11,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                208,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                70,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                1647,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                130,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3586,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 4,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        14,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 0,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        2,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 0,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        7,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 0,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        5,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 6,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        6,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        3,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                1045,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 7,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            7539326,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            139,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                28505,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            1344,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            46,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 7,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            310846,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            310846,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3593999292,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 4,
+                },
+                data: Literal(
+                    2158747088,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3369641505,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                44,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 0,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 0,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            10,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            15,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            9,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 0,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            8,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            10,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            11,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 0,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            8,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            7,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            9,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                40917,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            206,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            206,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                152,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 1,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            664377,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            115979877,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                140,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        10,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 2,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        14,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        15,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 2,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        13,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 7,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        6,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        7,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 3,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                204,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                122,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                277,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                62608,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                143,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3234,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3179,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 2,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                188615,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                4835,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                64264,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                685172,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        9,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 7,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        11,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 7,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        15,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 6,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        9,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        7,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        10,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                7877750,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 2,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                22,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 7,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 5,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        15,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 0,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        15,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 5,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        4,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 4,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        11,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 5,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        9,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 4,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        12,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            31223,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 7,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            31223,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                126,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 3,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                139455,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                2126,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                1316140047,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 1,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                57417,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                5,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            2997,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 0,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            24470,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                177,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 7,
+                    type_id: 4,
+                },
+                data: Literal(
+                    13,
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                97,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                128,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 7,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                85,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                37726,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                178,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                7,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                277352178,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 7,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                3851,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            1953355650,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 4,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            2158,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 7,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                15,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 4,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 1,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                8,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            6,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 5,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            2589,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 5,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            3811248452,
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 2,
+                                            type_id: 4,
+                                        },
+                                        data: Literal(
+                                            33,
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                558935552,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 0,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 6,
+                            },
+                            data: Operator(
+                                [
+                                    Packet {
+                                        header: Header {
+                                            version: 3,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        3,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        2,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 1,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        4,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                    Packet {
+                                        header: Header {
+                                            version: 6,
+                                            type_id: 0,
+                                        },
+                                        data: Operator(
+                                            [
+                                                Packet {
+                                                    header: Header {
+                                                        version: 6,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        6,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 6,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        15,
+                                                    ),
+                                                },
+                                                Packet {
+                                                    header: Header {
+                                                        version: 3,
+                                                        type_id: 4,
+                                                    },
+                                                    data: Literal(
+                                                        5,
+                                                    ),
+                                                },
+                                            ],
+                                        ),
+                                    },
+                                ],
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 0,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                78,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 0,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                1842,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                372,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 6,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                5732528,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 3,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                1,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 6,
+                    type_id: 2,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 2,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                17588,
+                            ),
+                        },
+                    ],
+                ),
+            },
+            Packet {
+                header: Header {
+                    version: 5,
+                    type_id: 1,
+                },
+                data: Operator(
+                    [
+                        Packet {
+                            header: Header {
+                                version: 5,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                22,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                202,
+                            ),
+                        },
+                        Packet {
+                            header: Header {
+                                version: 4,
+                                type_id: 4,
+                            },
+                            data: Literal(
+                                77,
+                            ),
+                        },
+                    ],
+                ),
+            },
+        ],
+    ),
+}
+part 2: 18686116116
